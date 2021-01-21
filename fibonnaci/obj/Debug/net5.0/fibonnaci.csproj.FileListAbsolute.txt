@@ -1,0 +1,16 @@
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\fibonnaci.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\fibonnaci.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\fibonnaci.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\fibonnaci.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\fibonnaci.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\ref\fibonnaci.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\bin\Debug\net5.0\fibonnaci.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\ref\fibonnaci.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\fibonnaci\obj\Debug\net5.0\fibonnaci.genruntimeconfig.cache
