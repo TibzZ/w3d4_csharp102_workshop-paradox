@@ -1,0 +1,48 @@
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\lists.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\lists.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\lists.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\lists.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\ref\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\bin\Debug\net5.0\lists.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\ref\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\c_sharp_102\lists\obj\Debug\net5.0\lists.genruntimeconfig.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\lists.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\lists.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\lists.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\lists.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\ref\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\bin\Debug\net5.0\lists.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\ref\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102\lists\obj\Debug\net5.0\lists.genruntimeconfig.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.csprojAssemblyReference.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.AssemblyInfo.cs
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\ref\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\lists.exe
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\lists.deps.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\lists.runtimeconfig.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\lists.runtimeconfig.dev.json
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\ref\lists.dll
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\bin\Debug\net5.0\lists.pdb
+C:\Users\James\Desktop\SOC\C# bootcamp\Week3\c_sharp_102 - Copy\lists\obj\Debug\net5.0\lists.genruntimeconfig.cache
