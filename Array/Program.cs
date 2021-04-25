@@ -27,9 +27,10 @@ namespace Array
             //Reconvert the list to an array
             string[] consolidatedArrayRainbow = myList.ToArray();
 
+            
+            Console.WriteLine("Our results for the second array:");
             foreach (string item in consolidatedArrayRainbow)
             {
-                Console.WriteLine("Our results for the second array:")
                 Console.WriteLine($"{item}");
             }
 
